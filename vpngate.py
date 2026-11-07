@@ -59,7 +59,6 @@ PLACEHOLDER_MARKERS = ("你的", "YOUR_", "YOUR-", "example.com", "yourdomain")
 # 静态优选域名池（可用 EDGE_HOSTS 整体覆盖）
 DEFAULT_EDGE_HOSTS = [
     "172.64.151.134:443",
-    "bestcf.030101.xyz:443",
     "cdn.204910.best:443",
     "cf.877774.xyz:443",
     "cf.090227.xyz:443",
@@ -67,7 +66,6 @@ DEFAULT_EDGE_HOSTS = [
     "mfa.gov.ua:443",
     "nexusmods.com:443",
     "saas.sin.fan:443",
-    "store.ubi.com:443",
     "www.mfyx.cn:443",
     "www.ox.ac.uk:443",
     "www.shopify.com:443",
