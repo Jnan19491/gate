@@ -62,13 +62,13 @@ DEFAULT_EDGE_HOSTS = [
     "cdn.204910.best:443",
     "cf.877774.xyz:443",
     "cf.090227.xyz:443",
-    "cloudflare.idc.rocks:443", 
+    "cloudflare.idc.rocks:443",
     "mfa.gov.ua:443",
     "nexusmods.com:443",
     "saas.sin.fan:443",
     "www.mfyx.cn:443",
     "www.ox.ac.uk:443",
-    "www.shopify.com:443",
+    "www.shopify.com:443"
 ]
 
 DATA_CENTER_ORG_KEYWORDS = [
