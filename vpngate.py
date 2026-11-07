@@ -61,7 +61,6 @@ DEFAULT_EDGE_HOSTS = [
     "172.64.151.134:443",
     "bestcf.030101.xyz:443",
     "cdn.204910.best:443",
-    "cdns.doon.eu.org:443",
     "cf.877774.xyz:443",
     "cf.090227.xyz:443",
     "cloudflare.idc.rocks:443", 
